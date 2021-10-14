@@ -13,13 +13,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ![](/github/didominic-wedding/photos/header-photo.png)
 
-# Date:
+# Date
 
 ### September 23rd 2023
 
 <br>
 
-# Location:
+# Location
 
 ### Stowe, Vermont
 
@@ -35,4 +35,5 @@ knitr::opts_chunk$set(echo = TRUE)
 <p style="font-family: times, serif; font-size:12pt; font-style:italic">
     Katie (802-393-0819) or Dom (603-724-1509)
 </p>
+
 

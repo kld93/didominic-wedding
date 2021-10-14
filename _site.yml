@@ -1,6 +1,6 @@
 name: "didominic-wedding-website"
 navbar:
-  title: "DiDominic Wedding"
+  title: "FREE BEER! (and a wedding)"
   left:
     - text: "Home"
       href: index.html
@@ -19,7 +19,8 @@ navbar:
 output_dir: "."
 output:
   html_document:
-    theme: sandstone
-    highlight: textmate
-    toc: false 
+    theme: darkly
+    highlight: default
+    toc: true
     toc_float: true
+    toc_depth: 2
