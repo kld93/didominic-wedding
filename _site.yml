@@ -2,10 +2,20 @@ name: "didominic-wedding-website"
 navbar:
   title: "DiDominic Wedding"
   left:
-    - text: "Cars"
+    - text: "Home"
       href: index.html
-    - text: "About"
+    - text: "Wedding Details"
+      href: wedding-details.html
+    - text: "Our Story"
       href: about.html
+    - text: "Wedding Party"
+      href: wedding-party.html
+    - text: "Registry"
+      href: registry.html
+    - text: "FAQ"
+      href: faq.html
+    - text: "RSVP"
+      href: rsvp.html
 output_dir: "."
 output:
   html_document:

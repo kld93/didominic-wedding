@@ -1,0 +1,37 @@
+---
+title: "Wedding Party"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Bridesmaids
+
+### Title: Name
+
+content
+
+### Title: Name
+
+content
+
+### Title: Name
+
+content
+
+
+## Groomsmen
+
+### Title: Name
+
+content
+
+### Title: Name
+
+content
+
+### Title: Name
+
+content

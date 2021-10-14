@@ -1,0 +1,20 @@
+---
+title: "Wedding Details"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## When
+
+content content content
+
+## Where
+
+content content content
+
+## anything else??
+
+content content content
