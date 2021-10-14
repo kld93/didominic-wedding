@@ -21,5 +21,5 @@ output:
   html_document:
     theme: sandstone
     highlight: textmate
-    toc: true 
-    toc_float: true 
+    toc: false 
+    toc_float: true

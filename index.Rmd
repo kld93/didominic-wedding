@@ -1,5 +1,5 @@
 ---
-title: "Katie & Dom"
+title: 
 author: 
 date: 
 output: html_document
@@ -9,14 +9,30 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Our Story
+<center>
 
-### Where we met:
+![](/github/didominic-wedding/photos/header-photo.png)
 
-content content content
+# Date:
 
-### Where Dom proposed:
+### September 23rd 2023
 
-content content content
+<br>
 
-### anything else??
+# Location:
+
+### Stowe, Vermont
+
+<br>
+
+[RSVP here!](https://kld93.github.io/didominic-wedding/rsvp.html)
+
+<br>
+
+<p style="font-family: times, serif; font-size:12pt; font-style:italic">
+    For additional information, please feel free to reach out to 
+</p>
+<p style="font-family: times, serif; font-size:12pt; font-style:italic">
+    Katie (802-393-0819) or Dom (603-724-1509)
+</p>
+

@@ -1,5 +1,5 @@
 ---
-title: "Katie & Dom"
+title: "Our Story"
 author:
 date:
 output: html_document
@@ -9,12 +9,20 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Wedding Details
+
+
+### Where we met:
 
 content content content
 
-### Location:
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7513.021816995732!2d-72.66483467213355!3d44.476164329453944!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cb5964027c46b45%3A0x62eb5603b605f225!2s585%20Westview%20Heights%20Dr%2C%20Stowe%2C%20VT%2005672!5e0!3m2!1sen!2sus!4v1634227316240!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+### Where Dom proposed:
+
+content content content
+
+
+### anything else??
+
+
 
 
