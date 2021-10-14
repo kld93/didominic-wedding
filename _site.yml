@@ -1,0 +1,15 @@
+name: "didominic-wedding-website"
+navbar:
+  title: "DiDominic Wedding"
+  left:
+    - text: "Cars"
+      href: index.html
+    - text: "About"
+      href: about.html
+output_dir: "."
+output:
+  html_document:
+    theme: cyborg
+    highlight: textmate
+    toc: true 
+    toc_float: true 
