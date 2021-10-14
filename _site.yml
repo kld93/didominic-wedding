@@ -4,10 +4,10 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Wedding Details"
-      href: wedding-details.html
     - text: "Our Story"
       href: about.html
+    - text: "Wedding Details"
+      href: wedding-details.html
     - text: "Wedding Party"
       href: wedding-party.html
     - text: "Registry"

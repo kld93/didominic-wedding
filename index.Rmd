@@ -13,21 +13,25 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ![](/github/didominic-wedding/photos/header-photo.png){width=100%}
 
-# Date
+Date:
 
-### September 23rd 2023
-
-<br>
-
-# Location
-
-### Stowe, Vermont
+### September 23, 2023
 
 <br>
 
-[RSVP here!](https://kld93.github.io/didominic-wedding/rsvp.html)
+Location:
+
+### Stowe, VT
 
 <br>
+<br>
+<br>
+
+
+<p style="font-size:14pt; font-style:bold">
+[RSVP](https://kld93.github.io/didominic-wedding/rsvp.html)
+</p>
+
 
 <p style="font-family: times, serif; font-size:12pt; font-style:italic">
     For additional information, please feel free to reach out to 

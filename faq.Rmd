@@ -1,21 +1,37 @@
 ---
-title: "Frequently Asked Questions"
+title: 
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+<br>
+
+## Frequently Asked Questions
+
+<br>
 
 ### Are kids invited?
 
 We love your kids—we really do. But we want our wedding to be your night off!
 
+<br>
+<br>
+
 ### Can I bring a date?
 
 If your invitation says “and Guest,” then yes, if not, we would prefer if it was just you.
 
+<br>
+<br>
+<br>
 
-**If you have any other questions other than what we’ve listed here, please reach out to Katie at 802-393-0819**
+<center>
+*If you have any questions other than what we’ve listed here, please reach out to Katie*
 
+*C: 802-393-0819*
+
+*E: duggan.didominic@gmail.com*
+<center>
 
