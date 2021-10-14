@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <center>
 
-![](/github/didominic-wedding/photos/header-photo.png)
+![](/github/didominic-wedding/photos/header-photo.png){width=100%}
 
 # Date
 

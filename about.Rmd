@@ -1,5 +1,5 @@
 ---
-title: "Our Story"
+title: 
 author:
 date:
 output: html_document
@@ -11,17 +11,40 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 
-### Where we met:
+## Where we met
 
-content content content
+Although we lived in the same freshman dorm at Syracuse University, we didn't meet until the Spring semester of our sophomore year. We both decided to spend the semester studying abroad in Florence, Italy, where we met through mutual friends. 
+
+<br>
+<br>
+
+## First Date
+
+Upon returning from our semester abroad, we stayed in touch. For our first date, we hiked Mount Washington in NH.
+
+<center>
+![](/github/didominic-wedding/photos/first-date.jpg){width=50%}
+
+<br>
+<br>
+
+## The Proposal
+
+We spent just over a week traveling around Alaska in June, 2021. We spent a couple nights camping on our way to Denali National Park. Once in the park, we planned to spend one night camping in the Denali backcountry. Dom had picked out the spot in advance using his flight simulator to locate the park unit with the best view of Denali Mountain. We hiked into our permitted unit, set up camp, then continued hiking up to "get a better view of the mountain" (Dom). Once Dom decided that said view couldn't possibly get any better, he popped the question!
+
+<br>
+
+The view:
+
+<center>
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/632211110?h=500db6c747&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="view"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
-### Where Dom proposed:
+<br>
+<br>
 
-content content content
 
-
-### anything else??
 
 
 

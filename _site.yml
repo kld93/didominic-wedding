@@ -19,8 +19,8 @@ navbar:
 output_dir: "."
 output:
   html_document:
-    theme: darkly
+    theme: cosmo
     highlight: default
-    toc: true
+    toc: false
     toc_float: true
     toc_depth: 2
